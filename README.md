@@ -7,8 +7,8 @@ I'm a passionate software developer with a keen interest in web development, mac
 - 🌱 I’m currently learning **React Native and Azure**
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about **JavaScript, Python, and Machine Learning**
-- 📫 How to reach me: **[your email address]**
-- ⚡ Fun fact: I love playing chess and hiking!
+- 📫 How to reach me: **nishantff377@gmail.com**
+- ⚡ Fun fact: I love playing Football and badminton!
 
 ## Skills
 
@@ -18,29 +18,13 @@ I'm a passionate software developer with a keen interest in web development, mac
 - **Libraries**: React Three Fiber, Three.js
 - **Databases**: MySQL, MongoDB, PostgreSQL
 
-## Projects
-
-Here are some of my notable projects:
-
-1. **[Project Name]**
-   - Description: [Brief description of the project]
-   - Tech Stack: [Technologies used]
-   - [Link to the project repository]
-
-2. **[Project Name]**
-   - Description: [Brief description of the project]
-   - Tech Stack: [Technologies used]
-   - [Link to the project repository]
-
 ## GitHub Stats
 
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant5565&show_icons=true&theme=radical)
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter/)
-- [Personal Website](https://your-website.com/)
+- [LinkedIn](https://www.linkedin.com/in/nishant-kumar-singh-057730228/)
 
 <!--
 **Nishant5565/Nishant5565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
