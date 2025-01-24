@@ -55,7 +55,6 @@ I'm a passionate software developer with a keen interest in web development, mac
 
 ## 🔥 **Streak Stats**  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nishant5565&theme=radical)](https://git.io/streak-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishant5565&theme=radical)  
 
 ---
 
